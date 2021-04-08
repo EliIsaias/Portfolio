@@ -63,7 +63,6 @@ header .container nav a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 30rem;
   background: white;
   margin-bottom: 3rem;
   margin-top: 3rem;
@@ -194,7 +193,6 @@ header .container nav a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 30rem;
   background: white;
   margin-bottom: 1rem;
   margin-top: 3rem;
